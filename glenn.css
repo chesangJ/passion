@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: rgb(230,23,114);
+background: linear-gradient(90deg, rgba(230,23,114,1) 5%, rgba(30,64,103,1) 100%, rgba(148,187,233,1) 100%);
+
+        
+}
+.card{
+
+    border: solid whitesmoke ;
+    width: 500px;
+    padding: 20px 20px 20px 5px;
+    margin: 1% 30%;
+
+box-shadow:5px 5px 20px black;
+        
+}
+img{
+    width:500px;
+    height: 350px;
+    align-items: center;
+    
+    box-shadow:5px 5px 20px black;
+}
+.best{
+    text-align: center;
+    font-family: 'Itim', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 100px;
+font-weight: 900;
+color: plum;
+
+}
